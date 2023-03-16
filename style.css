@@ -175,7 +175,6 @@ hr {
     color: #707070;
     margin-bottom: 30px;
     font-size: 18px;
-    margin-top: 20px;
 }
 
 .btn-contribution {
@@ -194,4 +193,52 @@ hr {
     width: 460px;
     height: 480px;
     border-radius: 5px;
+}
+
+/* updates */
+.updates {
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.update-h2 {
+    color: #121212;
+    font-weight: 700px;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.update-p {
+    color: #707070;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+
+.subscription {
+    background-color: #FFF4D6;
+    display: inline-block;
+    padding: 80px 190px;
+
+}
+
+.updates-input {
+    background-color: #D9D9D9;
+    color: #AA9F9F;
+    border: 0;
+    padding: 15px 20px;
+    margin-right: 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.btn-sub {
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #FF5959;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    padding: 15px 12px;
+    font-weight: 500;
+    width: 148px;
+
 }
