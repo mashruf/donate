@@ -242,3 +242,24 @@ hr {
     width: 148px;
 
 }
+
+/* footer */
+footer {
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 20px;
+}
+
+.footer-h3 {
+    color: #FF5959;
+    font-size: 36px;
+    font-weight: 400px;
+    margin-bottom: 0;
+    font-family: 'Lobster', cursive;
+}
+
+.footer-p {
+    color: #D9DBE1;
+    font-size: 14px;
+    margin-top: 24px;
+}
