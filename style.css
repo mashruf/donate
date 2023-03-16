@@ -50,10 +50,10 @@ h1 {
 .donate-today {
     text-align: center;
     margin-top: 135px;
-    /* display: flex; */
 }
 
 .donate-h2 {
+    color: #121212;
     font-weight: 700px;
     font-size: 45px;
     margin-bottom: 20px;
@@ -112,6 +112,7 @@ hr {
 }
 
 .article-h4 {
+    color: #121212;
     font-weight: 600px;
     font-size: 24px;
 }
@@ -133,5 +134,64 @@ hr {
 
 .education {
     background-color: #FFF4D6;
+    border-radius: 5px;
+}
+
+/* contribution */
+
+.contribution {
+    margin-top: 135px;
+}
+
+.contribution-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+
+}
+
+.contribution-blog-1 {
+    margin-right: 95px;
+    width: 500px;
+}
+
+.contribution-blog-2 {
+    margin-left: 95px;
+    width: 500px;
+}
+
+
+
+.contribution-h2 {
+    color: #121212;
+    font-weight: 700px;
+    font-size: 45px;
+    line-height: 54px;
+
+}
+
+.contribution-p {
+    color: #707070;
+    margin-bottom: 30px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.btn-contribution {
+    margin: 0 auto;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #FF5959;
+    border: none;
+    border-radius: 5px;
+    padding: 16px 12px;
+    font-weight: 600;
+    width: 230px;
+}
+
+.contribution-img {
+    width: 460px;
+    height: 480px;
     border-radius: 5px;
 }
